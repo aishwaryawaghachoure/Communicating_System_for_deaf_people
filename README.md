@@ -8,7 +8,7 @@ The deaf community finds it difficult interacting with the listening community .
 
 ●	Converting Sign language to text
 
-●	Converting text to Sign language
+●	Converting text to Speech
 
      
 In spite of many advantages provided by this project which uses a palm sized leap motion sensor and provides a much more movable and moderate solution ,this classifier can further be improved with respect to speed and accuracy.
